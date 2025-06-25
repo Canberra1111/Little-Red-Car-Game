@@ -1,5 +1,5 @@
 # Little Red Car Game
-
+![RushHour Game](RushHour.png)
 ## Running Instructions
 
 ### Important:
